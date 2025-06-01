@@ -7,3 +7,9 @@ print("hello world")
 # hello world
 
 name = "kitisak Junsongsang"
+print(name)
+# This line defines a variable 'name' and assigns it the string "kitisak Junsongsang".
+
+myschool = "Srinakharinwirot University"
+print(myschool)
+# This line defines a variable 'myschool' and assigns it the string "Srinakharinwirot University".
