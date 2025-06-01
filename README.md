@@ -1,2 +1,2 @@
 # Github101
-This is my a first project about using Git and GitHub
+This is my a first project about using Git and GitHub ja
