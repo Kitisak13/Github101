@@ -5,3 +5,5 @@ print("hello world")
 # python hello.py
 # The output will be:
 # hello world
+
+name = "kitisak Junsongsang"
